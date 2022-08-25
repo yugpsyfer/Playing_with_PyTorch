@@ -1,3 +1,5 @@
-# Playing_with_PyTorch
+# Playing with PyTorch
 
-Some Pytorch Projects that I have done.
+Some PyTorch Projects that I have done.
+
+They are just colab notebooks and can be used direcly.
